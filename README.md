@@ -5,7 +5,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-jfyoatopl-nowark-s-projects.vercel.app/?username=nowarkcodes&theme=dark" alt="nowarkcodes trophies" />
+    <img src="https://github-profile-trophy-chi-one.vercel.app/?username=nowarkcodes&theme=dark" alt="nowarkcodes trophies" />
   </a> 
 </p>
 
