@@ -41,4 +41,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-lyart-kappa-72.vercel.app/api?username=nowarkcodes&show_icons=true&theme=dark&locale=en" alt="nowarkcodes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.demolab.com/?user=nowarkcodes&theme=dark" alt="nowarkcodes" /></p>
+<p><img align="center" src="https://github-readme-stats-lyart-kappa-72.vercel.app/?user=nowarkcodes&theme=dark" alt="nowarkcodes" /></p>
