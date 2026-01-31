@@ -19,13 +19,12 @@
 
 - 👨‍💻 All of my projects are available at [nowarkcodes.in](nowarkcodes.in)
 
-- 💬 Ask me about **AI system design, sentiment analysis, backend architecture, hackathon engineering**
+- 💬 Ask me about **AI system design, backend architecture**
 
 - 📫 How to reach me **aaryan.dafal@gmail.com**
 
 - 📄 Know about my experiences [nowarkcodes.in](nowarkcodes.in)
 
-- ⚡ Fun fact **Short, confident, slightly self-aware.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
