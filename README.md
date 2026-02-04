@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with [FeaturePulse](https://github.com/ADFoundryLabs/FeaturePulse)
 
-- 👨‍💻 All of my projects are available at [nowarkcodes.in](nowarkcodes.in)
+- 👨‍💻 All of my projects are available at [nowarkcodes.in](www.nowarkcodes.in)
 
 - 💬 Ask me about **AI system design, backend architecture**
 
