@@ -17,13 +17,13 @@
 
 - 🤝 I’m looking for help with [FeaturePulse](https://github.com/ADFoundryLabs/FeaturePulse)
 
-- 👨‍💻 All of my projects are available at [nowarkcodes.in](https://www.nowarkcodes.in/)
+- 👨‍💻 All of my projects are available at [NowarkCodes](https://github.com/NowarkCodes?tab=repositories)
 
 - 💬 Ask me about **AI system design, backend architecture**
 
 - 📫 How to reach me **aaryan.dafal@gmail.com**
 
-- 📄 Know about my experiences [nowarkcodes.in](nowarkcodes.in)
+- 📄 Know about my experiences [nowarkcodes.in](https://www.nowarkcodes.in/)
 
 
 <h3 align="left">Connect with me:</h3>
